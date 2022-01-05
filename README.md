@@ -1,4 +1,4 @@
-# HEllo!
+# Hello Community!
 
 ## General info
 C++ programming problems sheets collected by Me from Top competitive programming Websites like CodeForces, HackerRank and Leetcode. 
